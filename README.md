@@ -13,5 +13,6 @@
   * Resistores: diminuem a tensão de 5V para a tensão segura para o led, utilizamos led 330V que era o que tinha no kit, no led verde ligamos em série com o led, e para os leds vermelho e amarelo precisamos colocar dois desse em paralelo (Req = (330x330)/(330+330) = 165 ohms) para que ligassem.
 
 ## Participantes
- João Pedro Oliveira Serpellone - NUSP 13671848
- Vinícius Carneiro Macedo - NUSP 11915752
+ João Pedro Oliveira Serpellone - NUSP 13671848.
+ 
+ Vinícius Carneiro Macedo - NUSP 11915752.

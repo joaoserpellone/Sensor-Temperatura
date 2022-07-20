@@ -3,7 +3,7 @@
 ![alt text](https://github.com/joaoserpellone/Sensor-Temperatura/blob/main/circuitoArduino.png)
 
 ## Foto do circuito real
-![alt text](https://github.com/joaoserpellone/Sensor-Temperatura/blob/main/circuitoReal.jpg)
+![alt text](https://github.com/joaoserpellone/Sensor-Temperatura/blob/main/cirucitoReal.jpg)
 ![alt text](https://github.com/joaoserpellone/Sensor-Temperatura/blob/main/circuitoReal2.jpg)
 
 ## Lista de Componentes

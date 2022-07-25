@@ -7,6 +7,7 @@
 ## Foto do circuito real
 ![alt text](https://github.com/joaoserpellone/Sensor-Temperatura/blob/main/cirucitoReal.jpg)
 ![alt text](https://github.com/joaoserpellone/Sensor-Temperatura/blob/main/circuitoReal2.jpg)
+[Link para o vídeo no youtube](https://youtu.be/EPL39wO_Iok)
 
 ## Lista de Componentes
   * Sensor LM35: sensor de temperatura que lê a temperatura ambiente e transforma em sinal analógico que, no código, é convertido em graus celsius (no simulador ele é um sensor gringo, então ele mede em fahrenheit, por isso temos que converter para celsius).
